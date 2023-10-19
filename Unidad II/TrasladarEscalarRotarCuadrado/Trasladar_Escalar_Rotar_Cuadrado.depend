@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1697103106 source:c:\users\martin fuentes\desktop\graficacion\trasladar_escalar_rotar_cuadrado\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<stdio.h>
+
+1426371328 c:\program files\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1426371328 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1697221069 source:c:\users\martin fuentes\desktop\graficacion\unidad ii\trasladarescalarrotarcuadrado\main.cpp
+	<GL/gl.h>
+	<GL/glut.h>
+

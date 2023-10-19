@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1696475911 source:c:\users\martin fuentes\desktop\graf\lineahorizontal.c
+	<GL/gl.h>
+	<GL/glut.h>
+
+1426371328 c:\program files\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1426371328 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1696470540 source:c:\users\martin fuentes\desktop\graf\main.cpp
+	<GL/gl.h>
+	<GL/glut.h>
+
+1696475960 source:c:\users\martin fuentes\desktop\graf\lineavertical.c
+	<GL/gl.h>
+	<GL/glut.h>
+
+1696477563 source:c:\users\martin fuentes\desktop\graf\ambaslineas.c
+	<GL/gl.h>
+	<GL/glut.h>
+
+1696485691 source:c:\users\martin fuentes\desktop\graf\nombre.c
+	<GL/gl.h>
+	<GL/glut.h>
+
+1696485670 source:c:\users\martin fuentes\desktop\graf\ejemplo.c
+	<GL/glut.h>
+	<math.h>
+	<stdio.h>
+
+1696485735 source:c:\users\martin fuentes\desktop\graficacion\graf\ambaslineas.c
+	<GL/gl.h>
+	<GL/glut.h>
+
+1696485670 source:c:\users\martin fuentes\desktop\graficacion\graf\ejemplo.c
+	<GL/glut.h>
+	<math.h>
+	<stdio.h>
+
+1696475911 source:c:\users\martin fuentes\desktop\graficacion\graf\lineahorizontal.c
+	<GL/gl.h>
+	<GL/glut.h>
+
+1696475960 source:c:\users\martin fuentes\desktop\graficacion\graf\lineavertical.c
+	<GL/gl.h>
+	<GL/glut.h>
+
+1696485691 source:c:\users\martin fuentes\desktop\graficacion\graf\nombre.c
+	<GL/gl.h>
+	<GL/glut.h>
+
